@@ -144,7 +144,7 @@ header ul li a{
     padding: 0 20px;
 }
 header button{
-    padding: 15px 14px;
+    padding: 5px 14px;
     border: 1px solid #ffffff21;
     border-radius: 4px;
     background-color: #222;
@@ -156,13 +156,10 @@ header button{
         display: inline-block;
     }
 }
-header button span{
-    background: white;
-    height: 0.25px;
-    width: 21px;
-    display: block;
+header button i{
+    
     color: white;
-    position: relative;
+    
 }
 header button span::after,header button span::before{
     content: "";
