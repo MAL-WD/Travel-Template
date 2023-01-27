@@ -80,7 +80,7 @@ colorlist.forEach(li=>
 //             localStorage.setItem("background",false)
 
 //         }
-    }))
+//     }))
     // nav
     let nav=document.querySelector("header ul")
     let navButton=document.querySelector("header button")
